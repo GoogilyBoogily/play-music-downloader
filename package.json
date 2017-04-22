@@ -1,0 +1,16 @@
+{
+    "name": "play-music-downloader",
+    "version": "0.1.0",
+    "description": "Download music from google play",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "mkdirp": "^0.5.1",
+        "playmusic": "^2.1.0",
+        "sanitize-filename": "^1.6.0"
+    }
+}
